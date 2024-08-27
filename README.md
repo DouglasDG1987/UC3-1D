@@ -70,10 +70,12 @@ if (media >= 7) {
 }
 ```
 # Booleans
-```js
 ### False
+```js
+
 const number = 10
 resultado = number < 3
 console.log()
 ```
+
 
