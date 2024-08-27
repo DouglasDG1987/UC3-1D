@@ -77,5 +77,10 @@ const number = 10
 resultado = number < 3
 console.log()
 ```
-
+### True
+```js
+const number = 10
+resultado = number === 10
+console.log()
+```
 
