@@ -22,7 +22,7 @@ switch(produto){
     console.log("Lamentamos, esta fruta não está disponível no momento.")
 }
 ```
-#If e Else
+# If e Else
 ```js
 const nome = prompt("Qual o seu nome?");
 const lanche = prompt("Digite seu lanche");
@@ -50,5 +50,24 @@ else
   console.log(`Aqui não é Mirabilândia.`);
 }
 ```
+# média de notas
+```js
+const nome = prompt("Qual o seu nome?");
+const nota1 = prompt("Insira a nota de Português.");
+const nota2 = prompt("Insira a nota de História.");
+const nota3 = prompt("Insira a nota de Química.");
+const nota4 = prompt("Insira a nota de Geografia.");
+const nota5 = prompt("Insira a nota de inglês.");
+
+const media = (parseInt(nota1) + (parseInt(nota2) + (parseInt(nota3) + (parseInt(nota4) + (parseInt(nota5)) / 5;
+
+if (media >= 7) {
+    console.log(`Parabéns, ${nome}! Você está aprovado(a).`)
+} else if (media >= 4) {
+    console.log(`Você está de recuperação, ${nome}.`)
+} else {
+    console.log(`Infelizmente, ${nome}, você está reprovado(a).`)
+}
+
 ## Atividades desenvolvidas
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
