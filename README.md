@@ -9,6 +9,18 @@ Escreva aqui os conteúdos aprendidos.
 const nome = "Douglas"
 console.log(nome)
 ```
+```
+switch(produto){
+  case "Laranja":
+    console.log("Laranja custa R$5,00")
+    break;
+  case "Morango":
+    console.log("Morango custa R$10,00")
+    break;
+  default:
+    console.log("Lamentamos, esta fruta não está disponível no momento.")
+}
+```
 
 ## Atividades desenvolvidas
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
