@@ -50,7 +50,7 @@ else
   console.log(`Aqui não é Mirabilândia.`);
 }
 ```
-# média de notas
+# Média de notas
 ```js
 const nome = prompt("Qual o seu nome?");
 const nota1 = prompt("Insira a nota de Português.");
@@ -68,6 +68,7 @@ if (media >= 7) {
 } else {
     console.log(`Infelizmente, ${nome}, você está reprovado(a).`)
 }
+```
 
 ## Atividades desenvolvidas
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
