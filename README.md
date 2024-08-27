@@ -69,5 +69,11 @@ if (media >= 7) {
     console.log(`Infelizmente, ${nome}, você está reprovado(a).`)
 }
 ```
-
+# Booleans
+```js
+### False
+const number = 10
+resultado = number < 3
+console.log()
+```
 
