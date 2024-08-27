@@ -9,7 +9,7 @@ Escreva aqui os conteúdos aprendidos.
 const nome = "Douglas"
 console.log(nome)
 ```
-```
+```js
 switch(produto){
   case "Laranja":
     console.log("Laranja custa R$5,00")
