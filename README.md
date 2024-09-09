@@ -90,3 +90,5 @@ console.log(livros.pop());
 console.log(livros.push("novoLivro"));
 console.log(livros);
 ```
+# Link da Atividade de Array
+https://codepen.io/Douglas-Gabriel-the-vuer/pen/VwJgmma
