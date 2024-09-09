@@ -83,4 +83,10 @@ const number = 10
 resultado = number === 10
 console.log()
 ```
-
+# Array
+```js
+const livros = ["JavaScript", "Phyton", "C#", "Mario", "mãos talentosa", "Hellsing", "A piada mortal"];
+console.log(livros.pop());
+console.log(livros.push("novoLivro"));
+console.log(livros);
+```
